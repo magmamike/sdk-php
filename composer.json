@@ -2,6 +2,7 @@
   "name": "fedexcrossborder/sdk-php",
   "description": "FedEx Cross Border SDK for PHP",
   "type": "library",
+  "minimum-stability": "stable",
   "license": "proprietary",
   "require": {
     "php": ">=5.4",
