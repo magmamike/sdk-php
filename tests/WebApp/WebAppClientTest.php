@@ -9,7 +9,7 @@ use FedExCrossBorder\WebApp\Entity\Product;
 use FedExCrossBorder\WebApp\WebAppClient;
 use FedExCrossBorder\Auth\OAuthClient;
 use FedExCrossBorder\Auth\Credentials;
-use PHPUnit\Framework\TestCase;
+use PHPUnit_Framework_TestCase as TestCase;
 
 class WebAppClientTest extends TestCase
 {

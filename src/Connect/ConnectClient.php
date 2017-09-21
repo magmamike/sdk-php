@@ -3,7 +3,7 @@
 namespace FedExCrossBorder\Connect;
 
 use GuzzleHttp\Client;
-use Meng\AsyncSoap\Guzzle\Factory;
+use GuzzleHttp\Handler\CurlFactory as Factory;
 
 class ConnectClient
 {

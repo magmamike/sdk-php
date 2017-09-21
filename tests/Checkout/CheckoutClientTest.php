@@ -11,7 +11,7 @@ use FedExCrossBorder\Checkout\Entity\MerchantShippingMethod;
 use FedExCrossBorder\Auth\OAuthClient;
 use FedExCrossBorder\Auth\Credentials;
 use FedExCrossBorder\Exception\HttpException;
-use PHPUnit\Framework\TestCase;
+use PHPUnit_Framework_TestCase as TestCase;
 
 class CheckoutTest extends TestCase
 {

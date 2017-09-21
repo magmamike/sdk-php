@@ -1,7 +1,7 @@
 <?php
 
 use FedExCrossBorder\Connect\ConnectClient;
-use PHPUnit\Framework\TestCase;
+use PHPUnit_Framework_TestCase as TestCase;
 
 class ConnectClientTest extends TestCase
 {

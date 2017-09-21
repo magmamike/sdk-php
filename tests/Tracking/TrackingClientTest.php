@@ -6,7 +6,7 @@ use FedExCrossBorder\Tracking\Entity\CustomerInfo;
 use FedExCrossBorder\Tracking\Entity\MerchantCredential;
 use FedExCrossBorder\Tracking\Entity\TrackingParam;
 use FedExCrossBorder\Tracking\TrackingClient;
-use PHPUnit\Framework\TestCase;
+use PHPUnit_Framework_TestCase as TestCase;
 
 class TrackingClientTest extends TestCase
 {

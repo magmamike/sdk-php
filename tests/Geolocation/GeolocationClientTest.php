@@ -3,7 +3,7 @@
 use FedExCrossBorder\Adapter\GuzzleHttpAdapter;
 use FedExCrossBorder\Auth\Credentials;
 use FedExCrossBorder\Geolocation\GeolocationClient;
-use PHPUnit\Framework\TestCase;
+use PHPUnit_Framework_TestCase as TestCase;
 
 class GeolocationClientTest extends TestCase
 {
